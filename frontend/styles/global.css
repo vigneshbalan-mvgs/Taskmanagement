@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Arial', sans-serif;
+  background-color: #191724;
+  color: #e0def4;
+}
+
+a {
+  color: #9ccfd8;
+  text-decoration: none;
+}
+
+input, button {
+  font-family: inherit;
+}
+

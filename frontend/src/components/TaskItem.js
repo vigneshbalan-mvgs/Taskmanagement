@@ -1,5 +1,6 @@
 import React from 'react';
 import axios from 'axios';
+import './TaskItem.css'
 
 const TaskItem = ({ task, fetchTasks }) => {
   const toggleTask = async () => {

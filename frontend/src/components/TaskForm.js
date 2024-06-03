@@ -1,6 +1,7 @@
 // src/components/TaskForm.js
 import React, { useState } from 'react';
 import axios from 'axios';
+import './TaskForm.css'
 
 const TaskForm = ({ fetchTasks }) => {
   const [text, setText] = useState('');
