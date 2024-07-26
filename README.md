@@ -19,7 +19,7 @@ This repository contains the source code for a task manager application built wi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/task-manager-app.git
+   git clone https://github.com/vigneshbalan-mvgs/Taskmanagement
    ```
 
 2. Navigate to the project directory:
